@@ -1,6 +1,6 @@
 # If you are not sure what all these fields mean, please refer our documentation here:
 # http://evalai.readthedocs.io/en/latest/challenge_creation.html#challenge-creation-using-zip-configuration
-title: Random Number Generator Challenge
+title: Classification Challenge 
 short_description: Random number generation challenge for each submission
 description: templates/description.html
 evaluation_details: templates/evaluation_details.html
